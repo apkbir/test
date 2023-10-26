@@ -8,7 +8,7 @@
         "language": "tr",
         "authors": [
             "Adippe",
-            "keyiflerolsun"
+            "RedPlay"
         ],
         "tvTypes": [
             "Live"
@@ -27,16 +27,42 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "RedPlay"
         ],
         "tvTypes": [
             "TvSeries"
-        ],
+       ],
         "version": 2,
         "internalName": "Dizilla",
         "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
         "url": "https://github.com/apkbir/test/builds/Dizilla.cs3",
         "name": "Dizilla"
+    },
+    {
+        "version": 2,
+        "internalName": "Dizilla",
+        "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
+        "url": "https://github.com/apkbir/test/builds/Dizilla.cs3",
+        "name": "Dizilla"
+    },
+       {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal625.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+        "fileSize": 12257,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "RedPlay"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "DiziPal",
+        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziPal.cs3",
+        "name": "DiziPal"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.pw&sz=%size%",
@@ -46,15 +72,15 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "RedPlay"
         ],
         "tvTypes": [
             "Movie"
         ],
         "version": 4,
-        "internalName": "HdFİlmizle",
+        "internalName": "FullHDFilmizlesene",
         "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "url": "https://raw.githubusercontent.com/apkbir/test/builds/FullHDFilmizlesene.cs3",
+        "url": "https://raw.githubusercontent.com/apkbir/test/FullHDFilmizlesene.cs3",
         "name": "FullHDFilmizlesene"
     },
     {
@@ -103,7 +129,7 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "keyiflerolsun"
+            "RedPlay"
         ],
         "tvTypes": [
             "NSFW"
@@ -141,8 +167,7 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "Stormunblessed",
-            "Jace"
+            "RedPlay"
         ],
         "tvTypes": [
             "NSFW"
@@ -162,7 +187,7 @@
         "language": "tr",
         "authors": [
             "Cloudburst",
-            "keyiflerolsun"
+            "RedPlay"
         ],
         "tvTypes": [
             "Others"
