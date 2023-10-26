@@ -10,7 +10,7 @@ import com.lagradost.cloudstream3.utils.Qualities
 import java.io.InputStream
 
 class CanliTV : MainAPI() {
-    override var mainUrl              = "https://raw.githubusercontent.com/keyiflerolsun/IPTV_YenirMi/main/Kanallar/KekikAkademi.m3u"
+    override var mainUrl              = "https://m3u.work/pl/d9e53b5bc435bba3b3fb94e1644a298b_b68c93402e6f622df93882f9b12694c4.m3u"
     override var name                 = "CanliTV"
     override val hasMainPage          = true
     override var lang                 = "tr"
