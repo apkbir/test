@@ -16,7 +16,7 @@
         "version": 1,
         "internalName": "CanliTV",
         "description": "Canl\u0131 TV",
-        "url": "https://github.com/apkbir/test/blob/builds/CanliTV.cs3",
+        "url": "https://raw.githubusercontent.com/apkbir/test/builds/CanliTV.cs3",
         "name": "CanliTV"
     },
     {
@@ -54,7 +54,7 @@
         "version": 4,
         "internalName": "HdFİlmizle",
         "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "url": "https://github.com/apkbir/test/blob/builds/FullHDFilmizlesene.cs3",
+        "url": "https://raw.githubusercontent.com/apkbir/test/builds/FullHDFilmizlesene.cs3",
         "name": "FullHDFilmizlesene"
     },
     {
@@ -73,7 +73,7 @@
         "version": 7,
         "internalName": "GoodPorn",
         "description": "Premium porn with 4K support (use VPN if links not working)",
-        "url": "https://github.com/apkbir/test/blob/builds/GoodPorn.cs3",
+        "url": "https://raw.githubusercontent.com/apkbir/test/builds/GoodPorn.cs3",
         "name": "GoodPorn"
     },
     {
@@ -92,7 +92,7 @@
         "version": 11,
         "internalName": "HDFilmCehennemi",
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
-        "url": "https://github.com/apkbir/test/blob/builds/HDFilmCehennemi.cs3",
+        "url": "https://raw.githubusercontent.com/apkbir/test/builds/HDFilmCehennemi.cs3",
         "name": "HDFilmCehennemi"
     },
     {
@@ -111,7 +111,7 @@
         "version": 10,
         "internalName": "PornHub",
         "description": "Pornhub is the world\u2019s leading free porn site. Choose from millions of hardcore videos that stream quickly and in high quality, including amazing VR Porn. The largest adult site on the Internet just keeps getting better. We have more pornstars and real amateurs than anyone else. It\u2019s fast, it\u2019s free, it\u2019s Pornhub!",
-        "url": "https://github.com/apkbir/test/blob/builds/PornHub.cs3",
+        "url": "https://raw.githubusercontent.com/apkbir/test/builds/PornHub.cs3",
         "name": "PornHub"
     },
     {
@@ -130,7 +130,7 @@
         "version": 1,
         "internalName": "YerliDizi",
         "description": "Watch Turkish Series with English Subtitles",
-        "url": "https://github.com/apkbir/test/blob/builds/Turkish123.cs3",
+        "url": "https://raw.githubusercontent.com/apkbir/test/builds/Turkish123.cs3",
         "name": "YerliDizi"
     },
     {
@@ -150,7 +150,7 @@
         "version": 8,
         "internalName": "XVideos",
         "description": "The best free NSFW site",
-        "url": "https://github.com/apkbir/test/blob/builds/XVideos.cs3",
+        "url": "https://raw.githubusercontent.com/apkbir/test/builds/XVideos.cs3",
         "name": "XVideos"
     },
     {
@@ -170,7 +170,7 @@
         "version": 2,
         "internalName": "YouTube",
         "description": "YouTube, izledi\u011finiz videolarla \u00f6nerilerini iyile\u015ftirir. \u0130lginizi \u00e7ekebilecek i\u00e7eriklerle dolu bir ak\u0131\u015f olu\u015fturmak i\u00e7in video izlemeye ba\u015flay\u0131n.",
-        "url": "https://github.com/apkbir/test/blob/builds/YouTube.cs3",
+        "url": "https://raw.githubusercontent.com/apkbir/test/builds/YouTube.cs3",
         "name": "YouTube"
     }
 ]
